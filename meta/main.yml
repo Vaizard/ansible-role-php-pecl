@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - geerlingguy.php
+  - mage-php
 
 galaxy_info:
   author: geerlingguy
